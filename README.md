@@ -1,5 +1,5 @@
 # GPipCam
-Automated re-/connect
+Automated reconnect
 
 Needed dependencies: [OpenCV](https://github.com/opencv/opencv-python/)
 
